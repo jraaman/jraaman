@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joakim, an engineer exploring web development
 
-I'm an engineer with a strong interest in communication and communication technologies from different angles. I have a versatile skill set from my education and additional courses such as electronics, data analysis and software development in a varíety of languages. I'm interested in developing my web development, IT and network technology skillsets specifically in the near future.
+I'm an engineer with a strong interest in communication and communication technologies from different angles. I have a versatile skill set from my education and additional courses such as electronics, data analysis and software development in a variety of languages. I'm interested in developing my web development, IT and network technology skillsets specifically in the near future.
 
 In my work I value especially stability, robustness and having a thorough understanding of everything that I do and produce.
 
