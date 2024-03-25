@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Joakim, an engineer exploring web development
 
 <!--
 **jraaman/jraaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on building up my GitHub page and portfolio site.
+🌱 I’m currently learning JavaScript and the MERN stack.
+💬 Ask me about life in Berlin or using the Pygame library.
+📫 Let's connect: https://www.linkedin.com/in/joakimraman/
